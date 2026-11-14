@@ -1,0 +1,5 @@
+FORMAT 1
+C Topocentric UTC TOAs, MeerKAT UHF, from band-averaged image-plane light curves; errors in microseconds.
+C See https://meerkat-lpts.github.io/project/toas/ for how they were measured.
+ASKAPJ1839_001 816.000 61154.0551619872 333514.0 meerkat
+ASKAPJ1839_002 816.000 61177.9743781402 1635970.0 meerkat

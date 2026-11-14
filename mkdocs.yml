@@ -1,0 +1,62 @@
+site_name: MeerKAT Long-Period Transients
+site_description: Monitoring long-period radio transients with MeerKAT (SCI-20251201-ID-01)
+site_url: https://meerkat-lpts.github.io/project/
+repo_url: https://github.com/meerkat-lpts/project
+repo_name: meerkat-lpts/project
+edit_uri: edit/main/docs/
+
+nav:
+  - Home: index.md
+  - Targets: targets.md
+  - Observations: schedule.md
+  - Times of arrival: toas.md
+  - Software: software.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+plugins:
+  - search
+  - table-reader:
+      data_path: docs        # tables are read from docs/data/*.csv
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/meerkat-lpts
