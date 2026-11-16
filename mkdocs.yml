@@ -1,8 +1,8 @@
 site_name: MeerKAT Long-Period Transients
 site_description: Monitoring long-period radio transients with MeerKAT (SCI-20251201-ID-01)
-site_url: https://meerkat-lpts.github.io/project/
-repo_url: https://github.com/meerkat-lpts/project
-repo_name: meerkat-lpts/project
+site_url: https://meerkat-lpts.github.io/public/
+repo_url: https://github.com/meerkat-lpts/public
+repo_name: meerkat-lpts/public
 edit_uri: edit/main/docs/
 
 nav:

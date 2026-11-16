@@ -10,7 +10,7 @@ Email: [iris.deruiter@sydney.edu.au](mailto:iris.deruiter@sydney.edu.au)
 
 ## Questions and collaboration
 
-- **Questions about the data or the TOAs:** open an [issue](https://github.com/meerkat-lpts/project/issues)
+- **Questions about the data or the TOAs:** open an [issue](https://github.com/meerkat-lpts/public/issues)
   or send an email.
 - **Data requests and collaboration:** please email us. We are happy to share data and coordinate
   observations, for example simultaneous observations with other telescopes.

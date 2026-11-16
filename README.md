@@ -4,7 +4,7 @@
 
 Monitoring long-period radio transients with MeerKAT (project SCI-20251201-ID-01).
 
-**Website: <https://meerkat-lpts.github.io/project/>**: targets and papers, completed observations,
+**Website: <https://meerkat-lpts.github.io/public/>**: targets and papers, completed observations,
 times of arrival, software and contact details.
 
 ## Editing the website
